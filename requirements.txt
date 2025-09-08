@@ -1,0 +1,12 @@
+kaggle
+numpy
+pandas
+scikit-learn
+xgboost
+mlflow
+joblib
+matplotlib
+seaborn
+kaggle
+gunicorn         # optional for serving
+flask            # optional lightweight API
