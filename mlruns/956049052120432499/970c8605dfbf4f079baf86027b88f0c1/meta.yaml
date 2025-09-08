@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/970c8605dfbf4f079baf86027b88f0c1/artifacts
+end_time: 1757365694278
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: 970c8605dfbf4f079baf86027b88f0c1
+run_name: polite-moth-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757365694196
+status: 4
+tags: []
+user_id: Jashuva

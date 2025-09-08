@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/d41d9a364c2a4880b71b04b69491d7e1/artifacts
+end_time: 1757365837463
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: d41d9a364c2a4880b71b04b69491d7e1
+run_name: stylish-wasp-220
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757365837419
+status: 4
+tags: []
+user_id: Jashuva

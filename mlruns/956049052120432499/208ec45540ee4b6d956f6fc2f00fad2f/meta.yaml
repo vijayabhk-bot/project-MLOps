@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/208ec45540ee4b6d956f6fc2f00fad2f/artifacts
+end_time: 1757365969989
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: 208ec45540ee4b6d956f6fc2f00fad2f
+run_name: intelligent-ape-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757365969943
+status: 4
+tags: []
+user_id: Jashuva
