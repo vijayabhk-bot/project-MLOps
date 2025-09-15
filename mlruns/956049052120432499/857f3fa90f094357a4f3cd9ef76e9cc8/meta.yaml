@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/857f3fa90f094357a4f3cd9ef76e9cc8/artifacts
+end_time: 1757441297460
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: 857f3fa90f094357a4f3cd9ef76e9cc8
+run_name: clean-auk-32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757441283754
+status: 3
+tags: []
+user_id: Jashuva

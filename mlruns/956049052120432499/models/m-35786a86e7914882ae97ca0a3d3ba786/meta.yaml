@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/models/m-35786a86e7914882ae97ca0a3d3ba786/artifacts
+creation_timestamp: 1757954164181
+experiment_id: '956049052120432499'
+last_updated_timestamp: 1757954177184
+model_id: m-35786a86e7914882ae97ca0a3d3ba786
+model_type: null
+name: fraud_model
+source_run_id: 762b5886b5f448d498c4cad035365955
+status: 2
+status_message: null

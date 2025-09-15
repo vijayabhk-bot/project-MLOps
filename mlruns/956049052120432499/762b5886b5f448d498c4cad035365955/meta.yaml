@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/762b5886b5f448d498c4cad035365955/artifacts
+end_time: 1757954177200
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: 762b5886b5f448d498c4cad035365955
+run_name: polite-pug-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757954161948
+status: 3
+tags: []
+user_id: Jashuva

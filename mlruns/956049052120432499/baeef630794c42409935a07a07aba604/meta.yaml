@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/baeef630794c42409935a07a07aba604/artifacts
+end_time: 1757954089924
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: baeef630794c42409935a07a07aba604
+run_name: rogue-fly-379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757954087919
+status: 4
+tags: []
+user_id: Jashuva
