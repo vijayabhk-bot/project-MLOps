@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/b3b9da1bcbe4498da0dd539a5123e49c/artifacts
+end_time: 1757971932674
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: b3b9da1bcbe4498da0dd539a5123e49c
+run_name: worried-steed-346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757971922816
+status: 3
+tags: []
+user_id: Jashuva

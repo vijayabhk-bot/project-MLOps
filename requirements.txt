@@ -10,3 +10,5 @@ seaborn
 kaggle
 gunicorn         # optional for serving
 flask            # optional lightweight API
+fastapi
+uvicorn

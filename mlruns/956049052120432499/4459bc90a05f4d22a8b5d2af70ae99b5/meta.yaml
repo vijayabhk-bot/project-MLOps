@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/4459bc90a05f4d22a8b5d2af70ae99b5/artifacts
+end_time: 1758576362763
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: 4459bc90a05f4d22a8b5d2af70ae99b5
+run_name: RandomForest_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758576270986
+status: 3
+tags: []
+user_id: Jashuva

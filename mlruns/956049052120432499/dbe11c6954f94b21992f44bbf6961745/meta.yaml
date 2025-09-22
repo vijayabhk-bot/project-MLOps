@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Jashuva/Desktop/fraud_detection_Mlops/mlruns/956049052120432499/dbe11c6954f94b21992f44bbf6961745/artifacts
+end_time: 1758576270979
+entry_point_name: ''
+experiment_id: '956049052120432499'
+lifecycle_stage: active
+run_id: dbe11c6954f94b21992f44bbf6961745
+run_name: LogisticRegression_Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758576257538
+status: 3
+tags: []
+user_id: Jashuva
