@@ -1,0 +1,49 @@
+name: Fraud Detection CI/CD
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+
+jobs:
+  build-test-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: "3.9"
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+        pip install databricks-cli mlflow
+
+    - name: Run Unit Tests
+      run: |
+        pytest tests/ --maxfail=1 --disable-warnings -q
+
+    - name: Deploy to Databricks
+      env:
+        DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
+        DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
+      run: |
+        # Upload your training script
+        databricks fs cp main.py dbfs:/FileStore/fraud/main.py --overwrite
+
+        # Submit job to Databricks cluster
+        databricks jobs create --json '{
+          "name": "fraud-detection-job",
+          "new_cluster": {
+            "spark_version": "13.3.x-scala2.12",
+            "node_type_id": "Standard_DS3_v2",
+            "num_workers": 2
+          },
+          "spark_python_task": {
+            "python_file": "dbfs:/FileStore/fraud/main.py"
+          }
+        }'
