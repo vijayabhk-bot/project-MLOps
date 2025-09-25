@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOps_project_folder/project-MLOps/mlruns/947658851829447026/models/m-cb4676bd33984806bdc7a91c759ebf8d/artifacts
+creation_timestamp: 1758831599709
+experiment_id: '947658851829447026'
+last_updated_timestamp: 1758831611377
+model_id: m-cb4676bd33984806bdc7a91c759ebf8d
+model_type: null
+name: fraud_model_vA
+source_run_id: 7e31375a0ede4af98fbdb5806b3c0f39
+status: 2
+status_message: null
