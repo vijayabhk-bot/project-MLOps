@@ -1,0 +1,10 @@
+artifact_location: file:///D:/MLOps_project_folder/project-MLOps/mlruns/947658851829447026/models/m-29381d55abb34e77a39ab5f20092979c/artifacts
+creation_timestamp: 1758831816445
+experiment_id: '947658851829447026'
+last_updated_timestamp: 1758831824159
+model_id: m-29381d55abb34e77a39ab5f20092979c
+model_type: null
+name: fraud_model_vB
+source_run_id: e09d3247c12345a3abdfd5b9e43f21f6
+status: 2
+status_message: null
